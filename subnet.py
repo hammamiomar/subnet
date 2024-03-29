@@ -2,14 +2,14 @@
 uniquecode = 37818
 
 #problem 1
-p1Network = '86.137.73.0'
+p1Network = '86.136.73.0'
 p1Broadcast = '86.136.73.255'
 p1First = '86.136.73.1'
 p1Last =  '86.136.73.254'
 
 #problem 2
 p2Network = '253.121.35.96'
-p2Broadcast = '253/121/35/111'
+p2Broadcast = '253.121.35.111'
 p2First = '253.121.35.97'
 p2Last = '253.121.35.110'
 
